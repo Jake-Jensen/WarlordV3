@@ -24,3 +24,8 @@ Valid arguments:
 
 [SearchText]: --HDMovies, --Video, --Audio, --Games, --PCGames, --Porn, --HDPorn, --Apps, --WinApps
 
+# Compiling
+
+g++ main.cpp -o WarlordV3.elf -lcurl
+
+Requires libcurl.
