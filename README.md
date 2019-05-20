@@ -2,8 +2,11 @@
 A torrent scraper for The Pirate Bay
 
 # Usage
-Examples: ./WarlordV3 --TPB --Search --Ubuntu
-          ./WarlordV3 --TPB --Browse --HDMovies
+Examples: 
+
+./WarlordV3 --TPB --Search --Ubuntu
+          
+./WarlordV3 --TPB --Browse --HDMovies
           
 If the search text is not formatted for html (%20 for spaces), any extra arguments will be interpreted as spaces.
 
